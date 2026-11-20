@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AI Akash</string>
+    <string name="tagline_subtitle">Voice Assistant &amp; Phone Control</string>
+    <string name="status_idle">Mic dabakar sawal puchhein</string>
+    <string name="status_listening">Sun raha hoon... boliye</string>
+    <string name="status_thinking">Akash soch raha hai...</string>
+    <string name="status_speaking">Akash bolkar samjha raha hai...</string>
+    <string name="welcome_title">Namaste! Main AI Akash hoon</string>
+    <string name="welcome_body">Apni awaz se koi bhi sawal puchhein, ya phone control karne ke liye bolein — main sununga aur bolkar jawab dunga.</string>
+    <string name="mic_permission_title">Microphone permission chahiye</string>
+    <string name="mic_permission_desc">Apki awaz sunne aur sawal samajhne ke liye AI Akash ko microphone access ki zaroorat hai.</string>
+    <string name="grant_mic_permission">Mic Allow Karein</string>
+    <string name="type_hint">Yahan type karein ya mic dabayein...</string>
+    <string name="phone_controls_title">Phone Controls</string>
+    <string name="voice_settings_title">Voice &amp; Language Settings</string>
+    <string name="auto_speak_label">Bolkar Jawab Dein (Voice Output)</string>
+    <string name="auto_speak_desc">AI Akash har sawal ka jawab bolkar sunayega</string>
+    <string name="clear_chat">Nayi Baat Shuru Karein</string>
+    <string name="cd_mic_orb">Microphone voice input button</string>
+    <string name="cd_speak_toggle">Toggle spoken voice replies</string>
+    <string name="cd_phone_controls">Open phone control panel</string>
+    <string name="cd_settings">Open voice and language settings</string>
+    <string name="cd_send_text">Send typed question</string>
+    <string name="cd_replay_voice">Listen to Akash reply aloud</string>
+    <string name="cd_stop_voice">Stop speaking</string>
+    <string name="cd_horizon_art">AI Akash cosmic sky backdrop</string>
+</resources>
